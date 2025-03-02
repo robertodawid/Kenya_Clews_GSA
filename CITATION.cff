@@ -1,19 +1,13 @@
 cff-version: "1.2.0"
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: "Heredia-Fonseca"
-    given-names: "Roberto"
-    orcid: "https://orcid.org/0000-0003-3947-8725"
+- family-names: "Heredia-Fonseca"
+  given-names: "Roberto"
+  orcid: "https://orcid.org/0000-0003-3947-8725"
 title: "Sectoral interactions and primary drivers in integrated CLEWs modeling: Insights from Kenya"
 version: "1.0"
 doi: "10.5281/zenodo.7548829"
 date-released: "2022-03-01"
 url: "https://github.com/robertodawid/Kenya_Clews_GSA"
-preferred-citation:
-  type: article
-  authors:
-    - family-names: "Heredia-Fonseca"
-      given-names: "Roberto"
-      orcid: "https://orcid.org/0000-0003-3947-8725"
 
     
