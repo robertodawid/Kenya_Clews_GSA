@@ -1,0 +1,18 @@
+name: otoole
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - pandas<2.1
+  - python=3
+  - numpy
+  - pyarrow
+  - xlrd
+  - pyyaml
+  - pydot
+  - amply>=0.1.4
+  - networkx
+  - openpyxl
+  - pip:
+    - otoole>=1.1.0
